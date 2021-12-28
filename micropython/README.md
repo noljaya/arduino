@@ -14,13 +14,13 @@ ESP32 계열의 보드를 추천합니다.
 
 # 설치
 이 단계에서는 [ESP32-S NodeMCU](https://www.devicemart.co.kr/goods/view?no=1381615)를 사용합니다  
-![ESP32-S NodeMCU](.\imgs\ESP-32S_NodeMCU.png)
+![ESP32-S NodeMCU](./imgs/ESP-32S_NodeMCU.png)
 
 
 1. ESP32 펌웨어 다운로드  
     https://micropython.org/download/?port=esp32 에서 펌웨어를 다운로드 합니다  
     자신이 사용하는 ESP32보드에 맞는 펌웨어를 다운로드 합니다  
-    !["firmware"](./imgs/firmware.PNG)  
+    !["firmware"](./imgs/firmware.png)  
     해당 문서를 작성할 때 최신 버전인 [v1.17](https://micropython.org/resources/firmware/esp32-20210902-v1.17.bin)을 다운로드 합니다  
 
 2. thonny 다운로드, 설치  
